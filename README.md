@@ -39,4 +39,5 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
