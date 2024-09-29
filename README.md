@@ -18,6 +18,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
 ## String
 |  |
@@ -53,6 +54,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0729-my-calendar-i) |
