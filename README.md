@@ -56,6 +56,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
@@ -114,4 +115,8 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
