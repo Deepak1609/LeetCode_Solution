@@ -86,6 +86,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
 |  |
