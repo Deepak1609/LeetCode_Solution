@@ -52,6 +52,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0386-lexicographical-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -178,4 +179,16 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
