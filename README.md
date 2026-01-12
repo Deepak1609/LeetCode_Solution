@@ -21,6 +21,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0066-plus-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -199,4 +201,8 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
