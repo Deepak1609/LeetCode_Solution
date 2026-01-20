@@ -93,6 +93,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
@@ -161,6 +162,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sorting
 |  |
 | ------- |
