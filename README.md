@@ -98,12 +98,14 @@ This repository contain the solution of practice problem and contest problem of 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Counting
 |  |
 | ------- |
@@ -223,6 +225,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Geometry
 |  |
 | ------- |
