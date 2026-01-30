@@ -38,6 +38,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
@@ -63,6 +64,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
@@ -92,6 +94,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -105,6 +108,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Counting
 |  |
@@ -239,4 +243,12 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
