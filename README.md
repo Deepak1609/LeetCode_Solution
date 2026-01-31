@@ -79,6 +79,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0724-find-pivot-index](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0859-design-circular-deque](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -122,6 +123,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0287-find-the-duplicate-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
