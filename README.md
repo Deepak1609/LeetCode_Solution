@@ -105,6 +105,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
+| [3637-trionic-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
