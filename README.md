@@ -106,6 +106,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
 | [3637-trionic-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
@@ -114,6 +115,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Counting
 |  |
