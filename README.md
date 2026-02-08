@@ -57,6 +57,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0386-lexicographical-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Trie
@@ -228,6 +229,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -236,6 +238,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
