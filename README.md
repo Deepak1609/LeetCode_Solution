@@ -183,6 +183,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Sorting
@@ -273,4 +274,8 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
