@@ -47,6 +47,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
@@ -314,4 +315,8 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
