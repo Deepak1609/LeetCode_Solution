@@ -46,6 +46,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -252,6 +253,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Tree
 |  |
 | ------- |
@@ -312,6 +314,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Union-Find
 |  |
