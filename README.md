@@ -109,6 +109,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1755-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1755-defuse-the-bomb) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
@@ -277,6 +278,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Geometry
