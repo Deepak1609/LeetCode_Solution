@@ -144,6 +144,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Counting
@@ -192,6 +193,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Linked List
 |  |
 | ------- |
