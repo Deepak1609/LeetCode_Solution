@@ -28,6 +28,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1622-fancy-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -179,11 +180,13 @@ This repository contain the solution of practice problem and contest problem of 
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1622-fancy-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
+| [1622-fancy-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
 ## Ordered Set
 |  |
