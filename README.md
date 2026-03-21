@@ -7,6 +7,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0432-all-oone-data-structure) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -103,6 +104,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0066-plus-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
+| [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -255,6 +257,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1755-defuse-the-bomb) |
