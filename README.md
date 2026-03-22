@@ -125,6 +125,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1652-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1652-defuse-the-bomb) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1755-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1755-defuse-the-bomb) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -266,6 +267,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1652-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1652-defuse-the-bomb) |
 | [1755-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1755-defuse-the-bomb) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
