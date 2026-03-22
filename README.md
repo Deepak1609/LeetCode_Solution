@@ -15,6 +15,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 | [1980-find-unique-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1980-find-unique-binary-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -58,6 +59,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1980-find-unique-binary-string) |
@@ -245,6 +247,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Sorting
@@ -269,6 +272,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1652-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1652-defuse-the-bomb) |
 | [1755-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1755-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Doubly-Linked List
@@ -370,6 +374,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
+| [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
