@@ -27,6 +27,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
