@@ -49,6 +49,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
@@ -116,6 +117,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
@@ -435,6 +437,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
