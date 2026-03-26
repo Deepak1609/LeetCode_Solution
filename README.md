@@ -10,6 +10,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0432-all-oone-data-structure) |
+| [0525-contiguous-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -114,6 +115,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -226,6 +228,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
