@@ -8,6 +8,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0001-two-sum](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0214-shortest-palindrome](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0214-shortest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
@@ -113,6 +115,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0001-two-sum](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
@@ -277,6 +280,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
