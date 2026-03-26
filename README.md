@@ -6,6 +6,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0075-sort-colors) |
