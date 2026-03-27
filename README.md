@@ -10,6 +10,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
@@ -226,6 +227,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
@@ -269,6 +271,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0859-design-circular-deque) |
 ## Queue
@@ -326,6 +329,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0432-all-oone-data-structure) |
 ## Stack
 |  |
