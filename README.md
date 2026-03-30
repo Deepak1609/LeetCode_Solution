@@ -25,6 +25,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 | [1980-find-unique-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1980-find-unique-binary-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -84,6 +85,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2580-circular-sentence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -314,6 +316,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
