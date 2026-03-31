@@ -88,6 +88,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3713-longest-balanced-substring-i) |
 ## Rolling Hash
@@ -99,6 +100,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0214-shortest-palindrome) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -479,6 +481,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2573-find-the-string-with-lcp](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
