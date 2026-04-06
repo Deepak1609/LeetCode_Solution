@@ -18,6 +18,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0525-contiguous-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0874-walking-robot-simulation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -155,6 +156,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0739-daily-temperatures](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0859-design-circular-deque](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0859-design-circular-deque) |
+| [0874-walking-robot-simulation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0874-walking-robot-simulation) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
@@ -478,6 +480,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
