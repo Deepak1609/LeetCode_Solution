@@ -32,6 +32,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3713-longest-balanced-substring-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +210,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Dynamic Programming
 |  |
 | ------- |
