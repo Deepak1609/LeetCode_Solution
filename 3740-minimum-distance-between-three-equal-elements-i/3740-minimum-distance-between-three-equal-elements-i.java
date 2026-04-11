@@ -1,20 +1,29 @@
+import java.util.*;
+
 class Solution {
     public int minimumDistance(int[] nums) {
-        int len = nums.length;
-        int[] last2 = new int[len];
-        int res = 200;
+        Map<Integer, List<Integer>> map = new HashMap<>();
 
-        for (int i = 0; i < len; i++) {
-            int val = nums[i] - 1;
-            int pos = i + 1, pack = last2[val];
-            int old = pack & 255, cur = pack >> 8;
-
-            last2[val] = cur | (pos << 8);
-
-            if (old > 0)
-                res = Math.min(res, (pos - old) << 1);
+        // Step 1: store indices
+        for (int i = 0; i < nums.length; i++) {
+            map.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
         }
 
-        return res == 200 ? -1 : res;
+        int minDist = Integer.MAX_VALUE;
+
+        // Step 2: process each value
+        for (List<Integer> list : map.values()) {
+            if (list.size() < 3) continue;
+
+            for (int i = 0; i + 2 < list.size(); i++) {
+                int left = list.get(i);
+                int right = list.get(i + 2);
+
+                int dist = 2 * (right - left);
+                minDist = Math.min(minDist, dist);
+            }
+        }
+
+        return minDist == Integer.MAX_VALUE ? -1 : minDist;
     }
 }
