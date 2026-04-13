@@ -177,6 +177,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1755-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
