@@ -30,6 +30,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3488-closest-equal-element-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -208,6 +209,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -262,6 +264,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Design
