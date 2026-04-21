@@ -129,6 +129,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0386-lexicographical-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0386-lexicographical-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
 | ------- |
@@ -181,6 +182,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1652-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1652-defuse-the-bomb) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1755-defuse-the-bomb) |
@@ -522,6 +524,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
