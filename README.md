@@ -25,6 +25,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 | [1980-find-unique-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2615-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -201,6 +202,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2751-robot-collisions) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2906-construct-product-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2906-construct-product-matrix) |
@@ -317,6 +319,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
+| [2615-sum-of-distances](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
