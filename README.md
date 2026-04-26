@@ -132,6 +132,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0386-lexicographical-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0386-lexicographical-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
@@ -181,6 +182,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -444,6 +446,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
@@ -460,6 +463,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -532,6 +536,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
