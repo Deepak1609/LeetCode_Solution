@@ -222,6 +222,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -258,6 +259,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -333,6 +335,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
@@ -483,6 +486,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
