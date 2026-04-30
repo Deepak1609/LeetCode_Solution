@@ -243,6 +243,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
@@ -264,6 +265,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3640-trionic-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -493,6 +495,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
