@@ -43,6 +43,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0002-add-two-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
@@ -154,6 +155,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0015-3sum](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0075-sort-colors) |
@@ -472,6 +474,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
