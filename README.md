@@ -193,6 +193,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1652-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1652-defuse-the-bomb) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -385,6 +386,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -574,6 +576,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
