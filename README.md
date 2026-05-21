@@ -11,6 +11,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
@@ -175,6 +176,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
@@ -298,6 +300,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -407,6 +410,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
@@ -571,6 +575,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
 | [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
