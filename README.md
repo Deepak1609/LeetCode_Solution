@@ -175,6 +175,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0189-rotate-array) |
@@ -278,6 +279,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
