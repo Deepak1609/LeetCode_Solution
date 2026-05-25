@@ -104,6 +104,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -286,6 +287,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1871-jump-game-vii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2573-find-the-string-with-lcp) |
@@ -368,6 +370,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
 | [2615-sum-of-distances](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2615-sum-of-distances) |
@@ -447,6 +450,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1755-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1755-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Doubly-Linked List
