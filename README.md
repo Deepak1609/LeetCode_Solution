@@ -259,6 +259,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3161-block-placement-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -336,6 +337,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
@@ -359,6 +361,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0729-my-calendar-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
 ## Ordered Set
 |  |
@@ -640,4 +643,8 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
