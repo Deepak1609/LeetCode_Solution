@@ -175,6 +175,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -289,6 +290,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -596,6 +598,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
 | [1763-longest-nice-substring](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1763-longest-nice-substring) |
