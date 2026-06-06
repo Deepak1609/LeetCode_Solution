@@ -250,6 +250,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2540-minimum-common-value](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2751-robot-collisions) |
@@ -395,6 +396,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1871-jump-game-vii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
+| [2574-left-and-right-sum-differences](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
