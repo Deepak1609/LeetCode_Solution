@@ -67,6 +67,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -159,6 +160,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Trie
 |  |
 | ------- |
@@ -536,6 +538,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
