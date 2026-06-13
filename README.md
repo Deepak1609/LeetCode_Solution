@@ -134,6 +134,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3474-lexicographically-smallest-generated-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3838-weighted-word-mapping) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -305,6 +306,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -654,6 +656,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2751-robot-collisions](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
 | ------- |
