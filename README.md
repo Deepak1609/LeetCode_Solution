@@ -90,6 +90,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0287-find-the-duplicate-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -428,6 +429,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0146-lru-cache](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0859-design-circular-deque) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -511,6 +513,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2751-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
