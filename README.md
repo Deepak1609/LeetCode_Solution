@@ -245,6 +245,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1732-find-the-highest-altitude](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1755-defuse-the-bomb) |
+| [1833-maximum-ice-cream-bars](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -477,6 +478,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1340-jump-game-v](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -689,6 +691,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2126-destroying-asteroids) |
@@ -708,4 +711,8 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3161-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
