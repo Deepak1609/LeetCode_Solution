@@ -21,6 +21,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -108,6 +109,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0657-robot-return-to-origin](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -351,6 +353,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0169-majority-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2833-furthest-point-from-origin](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2833-furthest-point-from-origin) |
