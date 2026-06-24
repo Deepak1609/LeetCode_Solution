@@ -162,6 +162,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -562,6 +563,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
@@ -574,6 +576,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
@@ -586,6 +589,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
