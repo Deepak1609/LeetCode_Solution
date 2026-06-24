@@ -162,6 +162,7 @@ This repository contain the solution of practice problem and contest problem of 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0386-lexicographical-numbers) |
@@ -562,6 +563,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -573,6 +575,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1306-jump-game-iii) |
@@ -584,6 +587,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
