@@ -38,6 +38,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -291,6 +292,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3161-block-placement-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3161-block-placement-queries) |
@@ -659,6 +661,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3713-longest-balanced-substring-i) |
