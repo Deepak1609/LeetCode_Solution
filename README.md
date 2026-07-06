@@ -239,6 +239,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1306-jump-game-iii) |
@@ -511,6 +512,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
