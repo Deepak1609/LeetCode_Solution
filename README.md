@@ -80,6 +80,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
