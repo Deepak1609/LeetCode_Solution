@@ -104,6 +104,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
@@ -320,6 +321,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3488-closest-equal-element-queries) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -366,6 +368,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3640-trionic-array-ii) |
@@ -410,6 +413,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3488-closest-equal-element-queries) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -503,6 +507,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
@@ -534,6 +539,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -703,6 +709,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -775,6 +782,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2573-find-the-string-with-lcp](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3689-maximum-total-subarray-value-i) |
