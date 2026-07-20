@@ -247,6 +247,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
+| [1260-shift-2d-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -668,6 +669,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0048-rotate-image](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -752,6 +754,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
