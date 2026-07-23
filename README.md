@@ -78,6 +78,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -330,6 +331,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3488-closest-equal-element-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -520,6 +522,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
