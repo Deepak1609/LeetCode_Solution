@@ -64,6 +64,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0189-rotate-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -239,6 +240,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0283-move-zeroes](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
@@ -370,6 +372,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0053-maximum-subarray](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1340-jump-game-v) |
@@ -633,6 +636,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Tree
 |  |
@@ -854,4 +858,8 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3312-sorted-gcd-pair-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
