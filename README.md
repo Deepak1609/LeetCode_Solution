@@ -66,6 +66,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1622-fancy-sequence) |
@@ -252,6 +253,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0859-design-circular-deque](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0859-design-circular-deque) |
 | [0874-walking-robot-simulation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0877-stone-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
@@ -373,6 +375,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1340-jump-game-v) |
@@ -862,4 +865,5 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
