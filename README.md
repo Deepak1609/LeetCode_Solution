@@ -48,6 +48,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3488-closest-equal-element-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3713-longest-balanced-substring-i) |
+| [3731-find-missing-elements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -361,6 +362,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -578,6 +580,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
