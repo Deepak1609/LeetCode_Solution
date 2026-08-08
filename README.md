@@ -119,6 +119,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3643-flip-square-submatrix-vertically) |
@@ -163,6 +164,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -397,6 +399,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3225-maximum-score-from-grid-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -831,6 +834,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
