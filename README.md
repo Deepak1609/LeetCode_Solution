@@ -71,6 +71,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1840-maximum-building-height) |
@@ -390,6 +391,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1871-jump-game-vii) |
@@ -885,12 +887,23 @@ This repository contain the solution of practice problem and contest problem of 
 | [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
