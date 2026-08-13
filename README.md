@@ -153,6 +153,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -312,6 +313,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -479,6 +481,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0729-my-calendar-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -489,6 +492,7 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Prefix Sum
 |  |
