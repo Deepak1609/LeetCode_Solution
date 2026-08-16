@@ -79,6 +79,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1840-maximum-building-height](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -309,6 +310,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2126-destroying-asteroids) |
@@ -433,6 +435,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2833-furthest-point-from-origin](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -845,6 +848,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1833-maximum-ice-cream-bars](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -900,20 +904,24 @@ This repository contain the solution of practice problem and contest problem of 
 | [0877-stone-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
