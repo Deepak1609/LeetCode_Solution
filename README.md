@@ -47,6 +47,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3713-longest-balanced-substring-i) |
@@ -358,6 +359,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3454-separate-squares-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
