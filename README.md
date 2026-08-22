@@ -96,6 +96,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3536-maximum-product-of-two-digits](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
