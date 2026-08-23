@@ -79,6 +79,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -155,6 +156,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -857,6 +859,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1833-maximum-ice-cream-bars](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2126-destroying-asteroids) |
@@ -915,6 +918,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0877-stone-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
