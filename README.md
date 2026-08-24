@@ -78,6 +78,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1622-fancy-sequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -308,6 +309,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
@@ -412,6 +414,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2573-find-the-string-with-lcp) |
@@ -524,6 +527,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [1732-find-the-highest-altitude](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1895-largest-magic-square) |
 | [2574-left-and-right-sum-differences](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2574-left-and-right-sum-differences) |
@@ -918,6 +922,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0877-stone-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -925,12 +930,14 @@ This repository contain the solution of practice problem and contest problem of 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
