@@ -561,6 +561,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0146-lru-cache](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0859-design-circular-deque) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Deepak1609/LeetCode_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
