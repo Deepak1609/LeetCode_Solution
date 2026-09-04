@@ -409,6 +409,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3838-weighted-word-mapping) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -558,6 +559,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
