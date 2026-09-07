@@ -148,6 +148,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0657-robot-return-to-origin](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -418,6 +419,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
