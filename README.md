@@ -112,6 +112,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3783-mirror-distance-of-an-integer) |
+| [3871-count-commas-in-range-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
