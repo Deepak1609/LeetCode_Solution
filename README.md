@@ -21,6 +21,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1096-brace-expansion-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1345-jump-game-iv) |
@@ -152,6 +153,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0696-count-binary-substrings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -617,6 +619,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0268-missing-number](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
+| [1096-brace-expansion-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1340-jump-game-v) |
@@ -676,6 +679,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -734,6 +738,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1345-jump-game-iv) |
@@ -836,6 +841,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
