@@ -152,6 +152,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0657-robot-return-to-origin](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0761-special-binary-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
@@ -679,6 +680,7 @@ This repository contain the solution of practice problem and contest problem of 
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1096-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -893,6 +895,7 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -988,4 +991,8 @@ This repository contain the solution of practice problem and contest problem of 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Deepak1609/LeetCode_Solution/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak1609/LeetCode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
